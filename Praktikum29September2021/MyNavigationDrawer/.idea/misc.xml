@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Raihan/Downloads/MyNavigationDrawer-bfbe7123af635c42d1ba4c9d9252ac6f870daf48/app/src/main/res/drawable/ic_menu_hotel.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Raihan/Downloads/MyNavigationDrawer-bfbe7123af635c42d1ba4c9d9252ac6f870daf48/app/src/main/res/drawable/ic_menu_map.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Raihan/Downloads/MyNavigationDrawer-bfbe7123af635c42d1ba4c9d9252ac6f870daf48/app/src/main/res/drawable/ic_menu_send.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Raihan/Downloads/MyNavigationDrawer-bfbe7123af635c42d1ba4c9d9252ac6f870daf48/app/src/main/res/drawable/side_nav_bar.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Raihan/Downloads/MyNavigationDrawer-bfbe7123af635c42d1ba4c9d9252ac6f870daf48/app/src/main/res/layout/activity_subway.xml" value="0.1" />
+        <entry key="..\:/Users/Raihan/Downloads/MyNavigationDrawer-bfbe7123af635c42d1ba4c9d9252ac6f870daf48/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/Raihan/Downloads/MyNavigationDrawer-bfbe7123af635c42d1ba4c9d9252ac6f870daf48/app/src/main/res/layout/fragment_cart.xml" value="0.1" />
+        <entry key="..\:/Users/Raihan/Downloads/MyNavigationDrawer-bfbe7123af635c42d1ba4c9d9252ac6f870daf48/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
